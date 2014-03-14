@@ -1,0 +1,10 @@
+/*
+Theme Name:	Twenty Eleven Child
+Theme URI:	http://wordpress.com
+Description:	child theme for Twenty eleven
+Author:		ME
+Template:	twentyeleven
+Version:	0.1
+*/
+
+@import url("../twentyeleven/style.css");

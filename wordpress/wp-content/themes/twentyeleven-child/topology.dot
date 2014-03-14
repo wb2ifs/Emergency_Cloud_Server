@@ -1,0 +1,5 @@
+digraph topology
+{
+"WB2IFS-103-RPi.local.mesh" -> "0.0.0.0/0"[label="HNA"];
+"0.0.0.0/0"[shape=diamond];
+}
